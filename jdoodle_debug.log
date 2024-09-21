@@ -1,0 +1,37 @@
+Output: 0 1 1 2 3
+Expected: 0, 1, 1, 2, 3
+Output: The factorial of 4 is: 24
+Expected: 24
+Output: 0 1 1 2 3
+Expected: 0, 1, 1, 2, 3
+Output: File "jdoodle.py", line 1
+    <?php
+    ^
+SyntaxError: invalid syntax
+Expected: 7 is a prime number.
+Output: 0 1 1 2 3
+Expected: 0, 1, 1, 2, 3
+Output: File "jdoodle.py", line 15
+    print(f"Factorial of {number} is {result}")
+                                             ^
+SyntaxError: invalid syntax
+Expected: 24
+Output: Original array: [5, 2, 9, 1]
+Sorted array: [1, 2, 5, 9]
+Expected: [1, 2, 5, 9]
+Output: File "jdoodle.py", line 13
+    print(f"{number} is a prime number.")
+                                       ^
+SyntaxError: invalid syntax
+Expected: 7 is a prime number.
+Output: olleh
+Expected: olleh
+Output: Traceback (most recent call last):
+  File "jdoodle.py", line 1, in <module>
+    lmllzb
+NameError: name 'lmllzb' is not defined
+Expected: 4
+Output: 9
+Expected: 5 is odd.
+Output: 9
+Expected: 5 is odd.
